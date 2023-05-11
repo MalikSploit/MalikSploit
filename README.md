@@ -1,8 +1,4 @@
 ### Hi there i'm Malik 👋
 
-- 🔭 I’m currently in university studying computer science 
-- 🌱 I’m currently learning Java
-
-<!--
-**MalikSploit/MalikSploit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+- 🔭 I’m currently in ISIMA tudying computer science 
+- 🌱 I’m currently learning Cybersecurity and doing a lot of CTF
