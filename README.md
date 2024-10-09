@@ -18,5 +18,5 @@ I'm Malik, a passionate pentester, currently in my final year of engineering stu
 ## 📫 Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/malik-makkes)
-- [TryHackMe]([https://tryhackme.com/p/malik](https://tryhackme.com/p/HackerSploit007))
-- [RootMe]([https://www.root-me.org/malik](https://www.root-me.org/HackerSploit-622823))
+- [TryHackMe](https://tryhackme.com/p/HackerSploit007)
+- [RootMe](https://www.root-me.org/HackerSploit-622823)
